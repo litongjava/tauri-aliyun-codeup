@@ -1,6 +1,6 @@
-## tauri-chatgpt
+## tauri-aliyun-codeup
 
-A standalone desktop application for ChatGPT, built using Tauri.
+A standalone desktop application for Aliyun Codeup(https://codeup.aliyun.com/), built using Tauri.
 
 ![1](readme_files/1.png)
 
@@ -12,17 +12,17 @@ A standalone desktop application for ChatGPT, built using Tauri.
 ## Installation
 
 ### Pre-built binaries
-You can download the pre-built binaries for your platform from the [Releases](https://github.com/litongjava/tauri-chatgpt/releases) page.
+You can download the pre-built binaries for your platform from the [Releases](https://github.com/litongjava/tauri-aliyun-codeup/releases) page.
 
 ### Building from Source
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/litongjava/tauri-chatgpt
+    git clone https://github.com/litongjava/tauri-aliyun-codeup
     ```
 2. Navigate to the project directory:
     ```bash
-    cd tauri-chatgpt
+    cd tauri-aliyun-codeup
     ```
 3. Install tauri:
     ```bash
